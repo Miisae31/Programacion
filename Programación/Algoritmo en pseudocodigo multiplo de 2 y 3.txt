@@ -1,0 +1,12 @@
+
+Algoritmo múltiplo
+	 contador=0
+	Para i=1 hasta 100 con paso 1 Hacer
+		Si (i % 2 == 0) o (i % 3 == 0) entonces
+			contador=contador + 1
+		Fin Si
+	Fin Para
+	Imprimir contador
+FinAlgoritmo
+
+
