@@ -1,4 +1,4 @@
-# Aqui esta el txt con lo que entra en el examen
+# Aqui esta lo que entra en el examen
 
 ### Que entra en el examen: 
  * No entra teoria.
