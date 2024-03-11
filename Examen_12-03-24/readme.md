@@ -11,4 +11,8 @@
  * Entra array list y otras series de clases como pila y cola y en la parte de mapas el hashmap y dificilmemte el treemap.
  * Métodos que hemos visto, como recorrerlos con un iterator y realizar ordenaciones con el método sort.
  * Fechas como se contruyen como se crea otra fecha y como operar con ellas.
- * Entran tambien librerias personalizadas
+ * Entran tambien librerias personalizadas.
+ * Array list stack.
+ * Hashset.
+ * Arrayqueue.
+ * Mapas hashmap.
