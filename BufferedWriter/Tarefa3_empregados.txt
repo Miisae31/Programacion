@@ -1,0 +1,7 @@
+Marta;66666666F;35;Análise&Deseño
+Xan;33333333C;50;Análise&Deseño
+Ana;222222222B;32;Programación
+Francisco;55555555E;33;Recepción
+Pedro;11111111A;25;RR.HH
+Hugo;129319231A;19;Biologia
+Hugo;12319319A;19;Biologia
