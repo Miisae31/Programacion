@@ -1,0 +1,29 @@
+
+¿Qué es la tecnología Java y por qué la necesito?
+
+Java es una plataforma informática de lenguaje de programación creada por Sun Microsystems en 1995. Ha evolucionado desde sus humildes comienzos hasta impulsar una gran parte del mundo digital actual, ya que es una plataforma fiable en la que se crean muchos servicios y aplicaciones. Los nuevos e innovadores productos y servicios digitales diseñados para el futuro también siguen basándose en Java.
+
+Aunque la mayoría de aplicaciones Java modernas combinan el tiempo de ejecución y la aplicación de Java, todavía existen algunas aplicaciones e incluso sitios web que no funcionan sin instalar Java para escritorio. El sitio web Java.com está pensado para consumidores que todavía necesitan Java en sus aplicaciones de escritorio, sobre todo las aplicaciones que tienen como destino Java 8. Los desarrolladores y los usuarios que quieran aprender sobre programación Java, deben consultar el sitio web dev.java y los usuarios profesionales, oracle.com/java para obtener más información.
+¿Es gratuita la descarga de Java?
+
+Sí, la descarga de Java para uso personal es gratuita.
+Java también es gratuito para el desarrollo: los desarrolladores encontrarán todos los kits de desarrollo y otras herramientas útiles en https://www.oracle.com/javadownload/.
+¿Por qué debería actualizar al último parche de Java cuando se publica trimestralmente?
+
+Los últimos parches de Java contienen mejoras importantes para aumentar el rendimiento, la estabilidad y la seguridad de las aplicaciones Java que ejecute en su máquina. La instalación de estas actualizaciones garantizará que las aplicaciones Java sigan ejecutándose con la versión más reciente.
+
+MÁS INFORMACIÓN TÉCNICA
+
+¿Qué obtendré al descargar el software Java desde java.com?
+
+Al descargar el software Java desde java.com, obtendrá la versión 8 de Java Runtime Environment (JRE).
+
+JRE incluye Java Virtual Machine (JVM), las clases del núcleo de la plataforma Java y bibliotecas de la plataforma Java de compatibilidad. JRE representa la parte de tiempo de ejecución del software Java, que es todo lo que necesita para ejecutar las aplicaciones de Java WebStart desde un navegador web compatible. Sin embargo, no incorpora herramientas de desarrollo, dado que ya forman parte de Java Development Kit (JDK).
+
+¿Qué es el software Java Plugin?
+
+El software Java Plugin es un componente de Java Runtime Environment (JRE). JRE permite que algunas aplicaciones escritas en lenguaje de programación Java se inicien a través de ciertos navegadores. El software Java Plugin no es un programa independiente y no puede instalarse por separado.
+
+He oído hablar de Java Virtual Machine y JVM. ¿Se trata de software de Java?
+
+Java Virtual Machine es solo una parte del software de Java que se encarga de ejecutar una aplicación. Java Virtual Machine está incluido en la descarga del software Java, forma parte de JRE y ayuda a ejecutar aplicaciones Java.
